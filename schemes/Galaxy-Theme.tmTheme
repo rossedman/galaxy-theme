@@ -25,9 +25,9 @@
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
-				<string>#80CBC41A</string>
+				<string>#06090B</string>
 				<key>selection</key>
-				<string>#80CBC432</string>
+				<string>#0E1218</string>
 				<key>guide</key>
 				<string>#11181f</string>
 				<key>activeGuide</key>
