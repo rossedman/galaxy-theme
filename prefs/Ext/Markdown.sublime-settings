@@ -2,7 +2,7 @@
     "extensions": [
         "md"
     ],
-    "color_scheme": "Packages/material-theme/schemes/Material-Theme-Markdown.tmTheme",
+    "color_scheme": "Packages/galaxy-theme/schemes/Material-Theme-Markdown.tmTheme",
     "draw_centered": true, // Centers the column in the window
     "draw_indent_guides": false,
     "font_size": 15,
