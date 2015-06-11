@@ -542,8 +542,7 @@
 			"font.italic": false
 		},
 
-			// File icons and folder
-
+		// File icons and folder
 		{
 			"class": "icon_file_type",
 			// layer0.texture is filled in by code with the relevant icon name
@@ -557,8 +556,7 @@
 			"content_margin": [8, 8]
 		},
 
-			// Secondary folder icon (original) used as main folder icon
-
+		// Secondary folder icon (original) used as main folder icon
 		{
 			"class": "icon_folder",
 			"layer0.tint": [9,15,19],
@@ -586,8 +584,7 @@
 			"layer1.texture": "galaxy-theme/assets/commons/folder_opened--hover.png",
 		},
 
-			// Folder loading
-
+		// Folder loading
 		{
 			"class": "icon_folder_loading",
 			"layer1.texture":
@@ -618,8 +615,7 @@
 			"content_margin": [8, 8]
 		},
 
-			// Hidden arrow icon before folder
-
+		// Hidden arrow icon before folder
 		{
 			"class": "disclosure_button_control",
 			"layer0.texture": "galaxy-theme/assets/commons/folder.png",
@@ -659,7 +655,8 @@
 			"attributes": ["selected"],
 			"layer0.opacity": 1
 		},
-			// Opened files
+		
+		// Opened files
 		{
 			"class": "close_button",
 			"content_margin": [8, 8],
